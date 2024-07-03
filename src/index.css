@@ -1,0 +1,28 @@
+.text-align-center
+{
+    text-align: center;
+}
+.justify-content-center
+{
+    justify-content: center;
+}
+.diplay-flex
+{
+    display: flex;
+}
+.border
+{
+    border: 1px solid black;
+}
+.color-red
+{
+    color: red;
+}
+.color-green
+{
+    color: green;
+}
+.underline
+{
+    text-decoration: underline;
+}
